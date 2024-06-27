@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.recharts-tooltip-wrapper {
+  pointer-events: auto !important;
+}

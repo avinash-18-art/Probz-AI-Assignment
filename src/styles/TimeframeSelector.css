@@ -1,0 +1,20 @@
+.timeframe-selector {
+  margin: 20px;
+}
+
+.timeframe-selector button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  border: none;
+  background-color: #8884d8;
+  color: white;
+  cursor: pointer;
+}
+
+.timeframe-selector button.active {
+  background-color: #4c4c9c;
+}
+
+.timeframe-selector button:hover {
+  background-color: #4c4c9c;
+}
